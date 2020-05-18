@@ -1,4 +1,5 @@
 Name: Kunkaaa
+Nickname: Edward
 Occupation: Admiral
 Objective: to be admired and remembered for good things
 Preferred Rate: enough money
